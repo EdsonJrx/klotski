@@ -1,0 +1,11 @@
+.MyCanvas {
+    border: 3px solid black;
+    border-radius: 13px;
+    background-color: aliceblue;
+    width: 400px;
+    height: 500px;
+    margin:0 auto
+}
+body {
+    background-color: rgb(253, 171, 63);
+}
