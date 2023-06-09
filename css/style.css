@@ -1,0 +1,8 @@
+canvas{
+    border: 2pt solid rgb(0, 0, 0);
+    border-radius: 13px;
+    background-color: aliceblue;
+}
+body {
+    background-color: rgb(255, 196, 70);
+}
